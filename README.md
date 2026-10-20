@@ -14,7 +14,7 @@
 | **플랫폼** | PC |
 | **개발 언어** | C++, HLSL |
 | **사용 기술** | DirectX 11 |
-| **담당 작업** |  C++, DirectX11 기반 렌더링 엔진 설계, Deferred Rendering 구현, Screen Space Decal 및 PBR 구현을 통한 렌더링 품질 상승 |
+| **담당 작업** |  렌더링 엔진 설계, Deferred Rendering 구현, Screen Space Decal 및 PBR 구현을 통한 렌더링 품질 상승 |
 
 
 G-STAR 2024 전시 작품
@@ -47,7 +47,7 @@ G-STAR 2024 전시 작품
 
 | 항목 | 내용 |
 | --- | --- |
-| [RenderPass](./GraphicsEngine/Renderer/RenderPass.h) | 오브젝트를 그리는 방법을 정의한 클래스, <br />[DeferredPass](/GraphicsEngine/Renderer/DeferredPass.cpp), [DebugPass](/GraphicsEngine/Renderer/DebugPass.cpp) 등 다양한 파생 RenderPass를 만들어 각기 사용되는 고유의 Shader 및 렌더링 방식을 정의하도록 했습니다.   |
+| [RenderPass](./GraphicsEngine/Renderer/RenderPass.h) | 오브젝트를 그리는 방법을 정의한 클래스, <br />[DeferredPass](/GraphicsEngine/Renderer/DeferredPass.cpp), [DebugPass](/GraphicsEngine/Renderer/DebugPass.cpp) 등 다양한 파생 RenderPass를 만들어 각기 사용되는 고유의 Shader 및 렌더링 방식을 정의.   |
 | [PassManager](/GraphicsEngine/Renderer/PassManager.h) | 여러 RenderPass를 의도한 순서에 동작하도록 하고 일괄적으로 제어 및 관리 담당 |
 
 <br>
