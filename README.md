@@ -1,12 +1,7 @@
 #VisionPredator-InHouse
 
+G-STAR 2024 전시 작품
 연구소의 실험체인 플레이어는 총기와 특수 능력을 활용하여 적을 처치하고 생존해야 합니다.
-
-
-자세한 프로젝트 정보는 여기로 https://github.com/VisionPredator
-
-해당 프로젝트에서 기여한 작업을 따로 정리 해놓은 리포지토리
-
 
 | 항목 | 내용 |
 | --- | --- |
@@ -16,8 +11,10 @@
 | **사용 기술** | DirectX 11 |
 | **담당 작업** |  렌더링 엔진 설계, Deferred Rendering 구현, Screen Space Decal 및 PBR 구현을 통한 렌더링 품질 상승 |
 
+자세한 프로젝트 정보는 [여기](https://github.com/VisionPredator)에서 확인 가능합니다.
 
-G-STAR 2024 전시 작품
+해당 리포지토리는 VisionPredator 프로젝트에서 기여한 그래픽스 작업을 정리 해놓은 리포지토리입니다.
+
 
 ## 구현 상세
 ### 1. [RenderPass 기반 렌더링 파이프 라인 설계](./GraphicsEngine/Renderer/RenderPass.h)
