@@ -47,7 +47,7 @@ G-STAR 2024 전시 작품
 
 | 항목 | 내용 |
 | --- | --- |
-| [RenderPass](./GraphicsEngine/Renderer/RenderPass.h) | 오브젝트를 그리는 방법을 정의한 클래스, [DeferredPass](/GraphicsEngine/Renderer/DeferredPass.cpp), [DebugPass](/GraphicsEngine/Renderer/DebugPass.cpp) 등 다양한 파생 RenderPass를 만들어 각기 사용되는 고유의 Shader 및 렌더링 방식을 정의하도록 했습니다.   |
+| [RenderPass](./GraphicsEngine/Renderer/RenderPass.h) | 오브젝트를 그리는 방법을 정의한 클래스, <br />[DeferredPass](/GraphicsEngine/Renderer/DeferredPass.cpp), [DebugPass](/GraphicsEngine/Renderer/DebugPass.cpp) 등 다양한 파생 RenderPass를 만들어 각기 사용되는 고유의 Shader 및 렌더링 방식을 정의하도록 했습니다.   |
 | [PassManager](/GraphicsEngine/Renderer/PassManager.h) | 여러 RenderPass를 의도한 순서에 동작하도록 하고 일괄적으로 제어 및 관리 담당 |
 
 <br>
@@ -67,7 +67,7 @@ G-STAR 2024 전시 작품
 
 | 항목 | 내용 |
 | --- | --- |
-| [Resource](./GraphicsEngine/Renderer/Resource.h) | 렌더링되는 과정에서 사용되는 RT,SRV 등 다양한 타입의 리소스를 일괄 제어하기 위한 기반클래스, [VertexBuffer](/GraphicsEngine/Renderer/VertexBuffer.cpp#L9C1-L17C2), [RenderTargetView](/GraphicsEngine/Renderer/RenderTargetView.cpp#L21C1-L27C2) 등 파생된 클래스들은 생성자에서 고유의 리소스 생성 동작 |
+| [Resource](./GraphicsEngine/Renderer/Resource.h) | 렌더링되는 과정에서 사용되는 RT,SRV 등 다양한 타입의 리소스를 일괄 제어하기 위한 기반클래스, <br />[VertexBuffer](/GraphicsEngine/Renderer/VertexBuffer.cpp#L9C1-L17C2), [RenderTargetView](/GraphicsEngine/Renderer/RenderTargetView.cpp#L21C1-L27C2) 등 파생된 클래스들은 생성자에서 고유의 리소스 생성 동작 |
 | [ResourceManager](ResourceManager.h#L78C1-L94C2) | 여러 Resource를 일괄적으로 제어 및 관리하는 클래스 |
 
 
