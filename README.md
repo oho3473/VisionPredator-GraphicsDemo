@@ -51,6 +51,7 @@ G-STAR 2024 전시 작품
 | [PassManager](/GraphicsEngine/Renderer/PassManager.h) | 여러 RenderPass를 의도한 순서에 동작하도록 하고 일괄적으로 제어 및 관리 담당 |
 
 <br>
+
 ### 2. [리소스 관리](./GraphicsEngine/Renderer/ResourceManager.h)
 
 <p align="center">
@@ -72,6 +73,7 @@ G-STAR 2024 전시 작품
 
 
 <br>
+
 ### 3.[Screen Space Decal]()
 
 <table>
@@ -92,12 +94,14 @@ G-STAR 2024 전시 작품
 <img width="1202" height="531" alt="image" src="https://github.com/user-attachments/assets/4159dd08-0805-4b8e-8c3a-a29d3321a158" />
 
 <br>
+
 ### 4.[Physically Based Rendering]()
 
 <img width="1426" height="746" alt="image" src="https://github.com/user-attachments/assets/6e97129c-3a15-401b-8ff1-e20d55cff45f" />
 <sub><b> 에디터 환경에서의 PBR 결과</b></sub>
 
 <br>
+
 ### 5.[Image Based Lighting]()
 <table>
   <tr>
