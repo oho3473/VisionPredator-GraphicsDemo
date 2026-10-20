@@ -40,6 +40,8 @@ G-STAR 2024 전시 작품
 하나의 RenderData를 여러 RenderPass에서 재사용하도록 구조를 활용하여, 기존 Model Class 중심의 구조에서 발생하는 중복 데이터로 인한 메모리 사용 증가와 관리 비용 문제를 개선했습니다.
 
 <br>
+
+<p align="center">
 <img width="605" height="338" alt="image" src="https://github.com/user-attachments/assets/ee5dca56-93b2-448b-a272-ef9e7e981e7c" />
 
 
@@ -51,8 +53,10 @@ G-STAR 2024 전시 작품
 
 ### 2. [리소스 관리](./GraphicsEngine/Renderer/ResourceManager.h)
 
+<p align="center">
 <img width="771" height="466" alt="image" src="https://github.com/user-attachments/assets/9b7a6ff1-515f-4f95-8c96-c69e6f35ff56" />
 <sub><b> 프로젝트에서 팀원이 사용한 리소스 생성 코드 - 타입이 다양해도 Create<T>(params…)로 생성 </b></sub>
+<br>
 
 렌더링 과정에서 사용되는 다양한 리소스의 각기 다른 사용법과 관리방식을 동일한 인터페이스로 관리하여, 반복되는 리소스 사용 작업의 효율성을 높이고자 했습니다.
 
