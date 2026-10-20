@@ -50,7 +50,7 @@ G-STAR 2024 전시 작품
 | [RenderPass](./GraphicsEngine/Renderer/RenderPass.h) | 오브젝트를 그리는 방법을 정의한 클래스, [DeferredPass](/GraphicsEngine/Renderer/DeferredPass.cpp),[DebugPass](/GraphicsEngine/Renderer/DebugPass.cpp)... 다양한 파생 RenderPass를 만들어 각기 사용되는 고유의 Shader 및 렌더링 방식을 정의하도록 했습니다.   |
 | [PassManager](/GraphicsEngine/Renderer/PassManager.h) | 여러 RenderPass를 의도한 순서에 동작하도록 하고 일괄적으로 제어 및 관리 담당 |
 
-
+<br>
 ### 2. [리소스 관리](./GraphicsEngine/Renderer/ResourceManager.h)
 
 <p align="center">
@@ -71,6 +71,7 @@ G-STAR 2024 전시 작품
 | [ResourceManager](ResourceManager.h#L78C1-L94C2) | 여러 Resource를 일괄적으로 제어 및 관리하는 클래스 |
 
 
+<br>
 ### 3.[Screen Space Decal]()
 
 <table>
@@ -90,13 +91,14 @@ G-STAR 2024 전시 작품
 
 <img width="1202" height="531" alt="image" src="https://github.com/user-attachments/assets/4159dd08-0805-4b8e-8c3a-a29d3321a158" />
 
-
-### 3.[Physically Based Rendering]()
+<br>
+### 4.[Physically Based Rendering]()
 
 <img width="1426" height="746" alt="image" src="https://github.com/user-attachments/assets/6e97129c-3a15-401b-8ff1-e20d55cff45f" />
 <sub><b> 에디터 환경에서의 PBR 결과</b></sub>
 
-### 3.[Image Based Lighting]()
+<br>
+### 5.[Image Based Lighting]()
 <table>
   <tr>
     <td align="center">
