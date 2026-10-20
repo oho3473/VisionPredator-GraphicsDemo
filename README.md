@@ -47,8 +47,7 @@ G-STAR 2024 전시 작품
 
 | 항목 | 내용 |
 | --- | --- |
-| [RenderPass](./GraphicsEngine/Renderer/RenderPass.h) | 오브젝트를 그리는 방법을 정의한 클래스, 
-  [DeferredPass](/GraphicsEngine/Renderer/DeferredPass.cpp), [DebugPass](/GraphicsEngine/Renderer/DebugPass.cpp) 등 다양한 파생 RenderPass를 만들어 각기 사용되는 고유의 Shader 및 렌더링 방식을 정의하도록 했습니다.   |
+| [RenderPass](./GraphicsEngine/Renderer/RenderPass.h) | 오브젝트를 그리는 방법을 정의한 클래스, [DeferredPass](/GraphicsEngine/Renderer/DeferredPass.cpp), [DebugPass](/GraphicsEngine/Renderer/DebugPass.cpp) 등 다양한 파생 RenderPass를 만들어 각기 사용되는 고유의 Shader 및 렌더링 방식을 정의하도록 했습니다.   |
 | [PassManager](/GraphicsEngine/Renderer/PassManager.h) | 여러 RenderPass를 의도한 순서에 동작하도록 하고 일괄적으로 제어 및 관리 담당 |
 
 <br>
