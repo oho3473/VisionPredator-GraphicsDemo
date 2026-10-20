@@ -73,7 +73,7 @@ G-STAR 2024 전시 작품
 
 <br>
 
-### 3.[Screen Space Decal]()
+### 3.[Screen Space Decal](https://blog.naver.com/gamenlife97/223989962953)
 
 <table>
   <tr>
@@ -94,7 +94,7 @@ G-STAR 2024 전시 작품
 
 <br>
 
-### 4.[Physically Based Rendering]()
+### 4.[Physically Based Rendering](https://blog.naver.com/gamenlife97/223985791792)
 
 <img width="1426" height="746" alt="image" src="https://github.com/user-attachments/assets/6e97129c-3a15-401b-8ff1-e20d55cff45f" />
 <sub><b> 에디터 환경에서의 PBR 결과</b></sub>
