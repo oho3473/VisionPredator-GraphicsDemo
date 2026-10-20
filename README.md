@@ -13,7 +13,8 @@ G-STAR 2024 전시 작품
 
 자세한 프로젝트 정보는 [여기](https://github.com/VisionPredator)에서 확인 가능합니다.
 
-해당 리포지토리는 VisionPredator 프로젝트에서 기여한 그래픽스 작업을 정리 해놓은 리포지토리입니다.
+
+이 리포지토리는 VisionPredator 프로젝트에서 기여한 그래픽스 작업을 정리 해놓은 리포지토리입니다.
 
 
 ## 구현 상세
