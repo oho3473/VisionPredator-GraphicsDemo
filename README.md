@@ -66,7 +66,7 @@ G-STAR 2024 전시 작품
 
 | 항목 | 내용 |
 | --- | --- |
-| [Resource](./GraphicsEngine/Renderer/Resource.h) | 렌더링되는 과정에서 사용되는 RT,SRV 등 다양한 타입의 리소스를 일괄 제어하기 위한 기반클래스<br>
+| [Resource](./GraphicsEngine/Renderer/Resource.h) | 렌더링되는 과정에서 사용되는 RT,SRV 등 다양한 타입의 리소스를 일괄 제어하기 위한 기반클래스, 
 [VertexBuffer](/GraphicsEngine/Renderer/VertexBuffer.cpp#L9C1-L17C2), [RenderTargetView](/GraphicsEngine/Renderer/RenderTargetView.cpp#L21C1-L27C2) 등 파생된 클래스들은 생성자에서 고유의 리소스 생성 동작 |
 | [ResourceManager](ResourceManager.h#L78C1-L94C2) | 여러 Resource를 일괄적으로 제어 및 관리하는 클래스 |
 
