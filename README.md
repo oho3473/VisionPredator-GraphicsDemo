@@ -54,7 +54,7 @@ G-STAR 2024 전시 작품
 
 <p align="center">
 <img width="771" height="466" alt="image" src="https://github.com/user-attachments/assets/9b7a6ff1-515f-4f95-8c96-c69e6f35ff56" />
-<sub><b>프로젝트에서 팀원이 사용한 리소스 생성 코드 - 타입이 다양해도 Create<T>(params…)로 생성</b></sub>
+<sub><b> 프로젝트에서 팀원이 사용한 리소스 생성 코드 - 타입이 다양해도 Create<T>(params…)로 생성</b></sub>
    
 
 렌더링 과정에서 사용되는 다양한 리소스의 각기 다른 사용법과 관리방식을 동일한 인터페이스로 관리하여,
